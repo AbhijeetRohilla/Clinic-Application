@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobileNumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "name": "abhishek rohilla",
+      "password": "Asdf",
+      "gender": "M",
+      "dateOfBirth": "2022-11-20",
+      "email": "Ni@in.in",
+      "mobileNumber": "8888888888",
+      "pincode": "110045",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    },
+    {
+      "id": 3,
+      "name": "admin",
+      "password": "admin",
+      "gender": "M",
+      "dateOfBirth": "1999-01-03",
+      "email": "admin@ad.min",
+      "mobileNumber": "9868965412",
+      "pincode": "110045",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  ],
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "mobileNumber": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "id": 2,
+      "name": "admin",
+      "password": "admin",
+      "gender": "M",
+      "dateOfBirth": "1999-01-03",
+      "mobileNumber": "9716640468",
+      "speciality": "Dietician Specialist"
+    },
+    {
+      "id": 3,
+      "name": "admin",
+      "password": "admin",
+      "gender": "M",
+      "dateOfBirth": "21995-02-11",
+      "mobileNumber": "8888888888",
+      "speciality": "ENT"
+    },
+    {
+      "id": 4,
+      "name": "Abhishek",
+      "password": "Abhika",
+      "gender": "M",
+      "dateOfBirth": "2022-12-02",
+      "mobileNumber": "9999999999",
+      "speciality": "Lassan Baaz"
+    },
+    {
+      "id": 5,
+      "name": "preeti",
+      "password": "preeti",
+      "gender": "F",
+      "dateOfBirth": "2022-12-01",
+      "mobileNumber": "9955886699",
+      "speciality": "Dietician"
+    }
+  ],
+  "bookings": [
+    {
+      "appointmentDate": "2020-09-24",
+      "slot": "10 AM to 11 AM",
+      "userId": 1,
+      "coachId": 1,
+      "id": 1
+    }
+  ]
+}
